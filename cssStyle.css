@@ -2,24 +2,21 @@
 body{
     background-color: #e5e5ff;
 }
-#page {
-	max-width: 1300px;
-	margin: 0px auto 0px auto;
-	background-color: #FFF;
-	padding: 5px 20px 20px 20px;
+#one{
+	margin:0 auto;
 }
-table, th, td{
-    /*border: 1px solid black;*/
-    text-align: left;
-    padding-bottom: 10px;
-}
-fieldset {
-    background-color: #F7F7F7;
-}
-legend {
-    background-color: #E5E5E5;
-    border: 1px solid #808080;
+h1, h2, h3{
+    text-align: center
 }
 h1{
-    text-align: center
+	background-color: red;
+}
+#box{
+	background-color: white;
+	text-align: center;
+	font-size: 160%;
+}
+#end{
+	text-align: center;
+	background-color: white;
 }
